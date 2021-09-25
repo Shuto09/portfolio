@@ -1,0 +1,12 @@
+main div h1{
+    padding: 20px;
+    margin: 0 auto;  /* ボックス中央寄せ */
+    text-align: center;  /* テキスト中央寄せ */
+}
+main div .prof{
+    padding-left: 10%;
+    font-size: 25px;
+}
+.last{
+    padding-bottom: 50px;
+}
