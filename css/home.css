@@ -1,0 +1,43 @@
+/*　メイン　*/ 
+
+/* main {} */
+
+main, main .contents{
+    height: 1500px;
+}
+main div h1{
+    margin: 0%;
+    padding: 20px;
+    margin: 0 auto;  /* ボックス中央寄せ */
+    text-align: center;  /* テキスト中央寄せ */
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.works {
+    padding: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    width: 40%;
+    height: 380px;
+    box-sizing: border-box;
+    margin: 5% ;
+}
+
+main div div section div a, main div div section div img{
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
+
+main div div section div img:hover{
+    width: 350px;
+    height: auto;
+}
+
+.works h2{
+    margin: 0;
+    padding: 0;
+}
+
