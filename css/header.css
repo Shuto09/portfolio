@@ -107,6 +107,8 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
-footer p{
+footer p {
     margin: 0%;
+    background-color: #808080;
+    padding-left: 5%;
 }
